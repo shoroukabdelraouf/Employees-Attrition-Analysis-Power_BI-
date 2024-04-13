@@ -1,7 +1,6 @@
 # Employees-Attrition-Analysis-Power_BI-
 ## Project Overview:
-This project aims to delve into the dynamics of employee attrition within our organization.   
-By identifying the key drivers behind attrition and analyzing attrition rates across various segments (job roles, genders),  
+This project aims to delve into the dynamics of employee attrition within our organization.by identifying the key drivers behind attrition and analyzing attrition rates across various segments (job roles, genders).  
 to provide actionable insights to mitigate attrition risks and enhance employee retention. The creation of an interactive dashboard will enable stakeholders to visualize these insights effectively, facilitating informed decision-making processes.
 
 
