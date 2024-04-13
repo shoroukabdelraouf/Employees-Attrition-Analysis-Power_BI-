@@ -1,7 +1,15 @@
 # Employees-Attrition-Analysis-Power_BI-
-## Project Overview:
+## Overview
+ABC Corporation, a multinational company, aims to address employee attrition challenges by implementing a Power BI project. This case study outlines project objectives, data sources, methodology, and deliverables.
+## Project Objectives:
 This project aims to delve into the dynamics of employee attrition within our organization.by identifying the key drivers behind attrition and analyzing attrition rates across various segments (job roles, genders).  
-to provide actionable insights to mitigate attrition risks and enhance employee retention.  
+to provide actionable insights to mitigate attrition risks and enhance employee retention. 
+## Data Sources
+Database: Three database tables provided:
+Employee_survey: Employee satisfaction, work-life balance, etc.  
+Manager_survey: Manager responses regarding employee performance, etc.  
+EmployeeInfo: Demographic information, job role, etc.  
+IN/OUT Times: Two sheets extracted from the Clock-In-Machine for year 2015 containing in/out times for all employees.  
 
 
 
